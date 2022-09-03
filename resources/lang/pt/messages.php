@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'algunos_temas' => 'Karma - Reencarnação - O Despertar -  Os Medos e as Emoções Negativas - Meditação e Relaxamento - Chakras e Mantrans - Personalidade, Essência e Ego  - Leis Metafísicas e Biologia Esotérica - Significado dos sonhos - Viagens Astrais - Kabala - Inteligência Emocional - Relações Humanas - O sábio uso de nossas energias - Alquimia  - Evolução e Involução',
+    'informacion_del_curso_1' => 'Esta Instituição oferece  de maneira gratuita seus cursos para o autoconhecimento e para o desenvolvimento profundo do  potencial humano.',
+    'informacion_del_curso_2' => 'É um curso teórico-prático de 23 aulas, que aborda temas de grande profundidade psicológica, antropológica, filosófica e metafísica, ajudando-nos a compreender que a natureza do ser humano tem uma profundidade maior do que normalmente conhecemos.',
+    'informacion_del_curso_3' => 'Através deste curso, podemos compreender a estrutura física, anímica e psíquica do ser humano, e adentrar no conhecimento profundo de nossas capacidades internas, etambém sobre como dominar nossa natureza interior que muitas vezes nos limita e nos condiciona impedindo nosso desenvolvimento completo.',
+    'algunas_tematicas_1' => 'Neste curso presencial, ditado por instrutores certificados pela instituição, iniciaremos uma viagem através da ampla temática abordada pelo conhecimento gnóstico, onde encontramos temas como:',
+    'algunas_tematicas_2' => '- O Conhecimento Interior,  e a Sabedoria Milenar;',
+    'algunas_tematicas_3' => '- Os aspectos psicológicos de nosso mundo interiorr: personalidade, essência e ego;',
+    'algunas_tematicas_4' => '- O despertar da consciência, suas capacidades e liberdade psicológica;',
+    'algunas_tematicas_5' => '- As leis metafísicas que nos regem e que determinam nosso destino, Karma e Dharma, Retorno, Recorrência, Reencarnação, Evolução e Involução, etc... E como manejá-las conscientemente à nosso favor;',
+    'algunas_tematicas_6' => '- Os defeitos psicológicos que mais condicionam nossa vida: nossos medos, complexos e inseguranças, nossas emoções negativas de ódio, rancor, ressentimento, a inveja, a cobiça, nossos maus hábitos, vícios e comportamentos negativos. Conheceremos as técnicas de autoconhecimento e auto-descobrimento para compreender esses elementos e erradicá-los definitivamente de nossas vidas.',
+    'algunas_tematicas_7' => '- Conheceremos também nossa biologia esotérica ou interna onde falaremos de nossos centros psicofisiológicos, nossos Chakras, nossa constituição interna com seus diferentes corpos e dimensões.',
+    'algunas_tematicas_8' => '- Vamos desenvolver técnicas de auto-conhecimento para adentrar em nosso mundo interior e conhecer suas maravilhas e suas infinitas possibilidades, aprenderemos técnicas de relaxamento, concentração, mantrans, runas, ciência Prânica, técnicas para reduzir o stress, técnicas de projeção astral.',
+    'algunas_tematicas_9' => '- Vamos falar sobre relações humanas, sobre como nos alimentar corretamente, sobre como obter e produzir uma energia apta para nossas vidas, nossa transformação e regeneração de física, psicológica e espiritual, conhecendo a alquimia dos  antigos sábios e seu sentido profundo de transformação e superação interior.',
+    'proposito_de_curso_1' => 'Criado com a finalidade de transmitir uma mensagem de vida transformadora e prática, dirigida a todos os indivíduos, este curso de Autoconhecimento (Primeira Câmara) é um verdadeiro chamado à consciência do ser humano, que promove sua influência em nossos atos e decisões.',
+    'proposito_de_curso_2' => 'Através de  distintos encontros e de uma  didática enfocada na experimentação, este curso destaca a importância do auto-descobrimento, o qual o homem necessita para realizar sua verdadeira essência, para conseguir, assim, dar um rumo consciente e transcendental para os seus passos na vida.',
+    'proposito_de_curso_3' => 'Ensina-nos a empreender um trabalho interior que nos leva à expandir a nossa noção sobre quem somos, sobre nossa maravilhosa composição tanto material como espiritual, sobre a relação que temos com cada ser vivo, com o planeta e com o próprio universo.',
+    'proposito_de_curso_4' => 'Também nos proporciona um conhecimento fundamental que nos propõe superar os obstáculos que atualmente impedem nossa harmonia psicofísica e o livre fluir das capacidades que levamos guardades em nós mesmos.',
+    'proposito_de_curso_5' => 'Responder à questões como: "Quem sou? Onde estava antes de nascer? O que há além da morte?"; São preocupações naturais de qualquer pessoa que tenha alcançado um certo grau de "maturidade" interior.',
+    'proposito_de_curso_6' => 'As respostas para ditas inquietudes são encontradas em torno do eixo filosófico sobre o qual gira a Gnosis: "O homem conhece a ti mesmo".',
+    'proposito_de_curso_7' => 'É através do caminho do autoconhecimento que podemos ter uma vida mais profunda e rica a partir de uma experiência direta; e é através deste Curso que obteremos as ferramentas para percorrer o nosso próprio Caminho.',
+    'proposito_de_curso_8' => 'Os Esperamos.'
+
+];

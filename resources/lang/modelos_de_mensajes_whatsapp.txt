@@ -1,0 +1,80 @@
+1) --------------------------------
+
+buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.
+
+Gracias por inscribirse en nuestro curso de auto-conocimiento, el mismo tiene una duración de 23 clases, es de entrada *libre y gratuita* pero *necesitamos nos confirme su asistencia* ya que nuestros cupos son limitados. 
+
+detalle_fecha
+
+nombre_de_la_institucion
+nombre_responsable_inscripcion
+
+2) --------------------------------
+
+buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.
+
+Gracias por inscribirse en nuestra conferencia: nombre_conferencia. 
+*Necesitamos nos confirme su asistencia* ya que nuestros cupos son limitados. 
+
+detalle_fecha
+
+Muchas Gracias
+nombre_de_la_institucion
+nombre_responsable_inscripcion
+
+3) --------------------------------
+
+Hola inscrito_nombre, no hemos recibido todavía su confirmación de asistencia a txt_tipo_de_evento
+
+
+4) --------------------------------
+
+Gracias por su confirmación.
+Aquí le enviamos el denominacion_de_voucher que deberá presentar el *inicio_en_texto* para poder acreditarse en nuestro evento.
+Puede llevarlo impreso o en su teléfono móvil, y le recomendamos que asista al menos *15  minutos antes* para la acreditación.
+
+*denominacion_de_voucher*: url_voucher
+
+
+5) --------------------------------
+
+Hola inscrito_nombre
+
+Mientras espera el inicio de txt_tipo_de_evento. Le enviamos este video con una reflexión: https://www.youtube.com/watch?v=x68yKvfRNmc
+
+
+6) --------------------------------
+
+*Comienzo de txt_tipo_de_evento*
+
+buenos_dias_tardes_noches, le escribimos para recordarle el inicio de txt_tipo_de_evento.
+*Lo esperamos hoy a las hora_inicio*
+Le recomendamos llevar algo para tomar apuntes.
+
+lugar_de_inicio
+
+
+7) --------------------------------
+
+En relación a su consulta *consulta_del_inscripto* , queremos decirte que ...
+
+
+8) --------------------------------
+
+Hola inscrito_nombre
+Esperamos se encuentre muy bien y queríamos recordarle la clase del día de hoy  en txt_tipo_de_evento.
+
+*Lo esperamos hoy a las hora_continua*
+
+lugar_de_continuacion
+
+
+9) --------------------------------
+
+Hola inscrito_nombre
+
+Si ha tenido algún problema para asistir al inicio de txt_tipo_de_evento, queríamos informarle que aún puede sumarse. No deje de aprovechar esta oportunidad.
+
+*Lo esperamos hoy a las hora_continua*
+
+lugar_de_continuacion

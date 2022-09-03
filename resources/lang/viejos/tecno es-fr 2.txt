@@ -1,0 +1,67 @@
+1) ~buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.~
+
+Nous entrons en contact pour vous informer à propos de votre inscription au cours d'Autoconnaissance. Le cours commencera le ~incio_en_texto~  et récouvre les 24 léçons.
+
+~detalle_fecha~
+Contact: ~tel_responsable_inscripcion~
+
+Le cours est libre et gratuit, mais les places limitées. Pour cela il nous faut que vous * confirmiez votre présence * en répondant à ce message. S'il n'est pas possible que vous assistiez au cours à ces horaires, nous vous prions de nous le dire et nous pourrons rechercher des horaires alternatifs pour assurer votre place au cours.
+
+Merci Beaucoup
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~
+
+2) ~buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.~
+
+Nous entrons en contact à propos de votre inscription à la conférence ~*nombre_conferencia*~. Elle aura lieu le ~incio_en_texto.~ Le cours est libre et gratuit, mais les *places limitées*.
+
+~detalle_fecha~
+Contact: ~tel_responsable_inscripcion~
+
+Nous vous prions de * confirmez votre présence * en répondant à ce message.
+Merci Beaucoup
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~
+
+3) ~buenos_dias_tardes_noches inscrito_nombre.~
+
+Nous n'avons pas encore réçu la confirmation de votre présence à ~txt_tipo_de_evento~
+
+~txt_tipo_de_evento~ est libre et gratuit, mais les *places limitées*.
+
+Merci Beaucoup
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~
+
+4) ~buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.~
+
+Nous avons réçu votre confirmation et vous envoyons le ~denominacion_de_voucher~ que vous devrez présenter le ~incio_en_texto~ pour pouvoir participer à notre évènement.
+Vous pouvez le porter imprimé ou dans votre portable, et nous vous recommendons d'arriver au moins avec 15  minutes d'avance pour l'inscription.
+
+~*denominacion_de_voucher*: url_voucher~
+
+Merci Beaucoup
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~
+
+5) ~buenos_dias_tardes_noches inscrito_nombre inscrito_apellido.~
+
+Pendant que vous attendez le début du ~txt_tipo_de_evento~ qui aura lieu le ~inicio_en_texto~. Nous vous envoyons cette vidéo avec une réflexion:
+
+https://www.youtube.com/watch?v=x68yKvfRNmc 
+
+Att.
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~
+
+6) *Début du ~txt_tipo_de_evento~*
+
+~buenos_dias_tardes_noches~, Nous vous écrivons pour vous rappelez le début du ~txt_tipo_de_evento~.
+*Nous vous attendons aujourd'hui ~hora_inicio~*
+Nous vous recommendons de porter quelque chose pour prendre des notes.
+
+~detalle_fecha~
+
+Att.
+~nombre_de_la_institucion~
+~nombre_responsable_inscripcion~

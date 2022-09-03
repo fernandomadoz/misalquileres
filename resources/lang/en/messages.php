@@ -1,0 +1,25 @@
+﻿<?php
+
+return [
+    'algunos_temas' => 'Karma - Reincarnation - Awakening - Fears and Negative Emotions - Meditation and Relaxation - Chakras and Mantras - Personality, Essence and Ego - Metaphysical Laws and Esoteric Biology - Meaning of Dreams - Astral Travel - Kabbala - Emotional Intelligence - Human Relationships - The wise use of our energy - Alchemy - Evolution and Involution',
+    'informacion_del_curso_1' => 'This Institution freely delivers its courses for deep self-knowledge and the development of human potential.',
+    'informacion_del_curso_2' => 'It is a theoretical-practical course of 23 classes, where topics of great psychological, anthropological, philosophical and metaphysical depth are addressed, helping us to understand that the nature of the human being has a greater depth than we normally know.',
+    'informacion_del_curso_3' => 'Through this course we will be able to understand the physical and psychic structure of the human being, and enter into the deep knowledge of our internal capacities. And learn also of the psychological aspects that limit us and condition us not to develop fully.',
+    'algunas_tematicas_1' => 'In this face-to-face course, under the guidance of instructors endorsed by the Institution, we begin a journey through the broad themes of Gnostic knowledge, where we will find topics such as:',
+    'algunas_tematicas_2' => '- Inner Knowledge, Wisdom of the Ages.',
+    'algunas_tematicas_3' => '- The aspects that manifest in our inner and outer world: personality, essence and ego - The awakening of consciousness, its capabilities and psychological liberation.',
+    'algunas_tematicas_4' => '- The metaphysical laws that govern us and that determine our destiny, Karma and Dharma, the law of return, recurrence, reincarnation, evolution and involution, etc.',
+    'algunas_tematicas_5' => '- the psychological defects that affect us most: our fears, complexes and insecurities, our negative emotions of hatred, resentment, envy, greed, our bad habits, vices and negative behaviors. We will learn the techniques of self-knowledge and self-discovery to understand these elements and eradicate them from our lives for ever.',
+    'algunas_tematicas_6' => '- We will also learn about our esoteric or internal biology where we will talk about our psycho-physiological centers, our Chakras, our internal constitution with its different bodies and dimensions.',
+    'algunas_tematicas_7' => '- We will develop self-knowledge techniques to go into our inner world and know its wonders and its infinite possibilities, we will learn relaxation techniques, concentration, mantras, runes, pranic science, techniques to reduce stress, techniques of astral projection.',
+    'algunas_tematicas_8' => '- We will talk about Human Relations, about how to nourish ourselves correctly, about how to have and produce an energy of a quality suitable for our life and our transformation and our physical, psychological and spiritual regeneration, learning the alchemy of the ancient sages and their deep sense of inner transformation and growth.',
+    'algunas_tematicas_9' => '',
+    'proposito_de_curso_1' => 'Created in order to transmit a transformative and practical message for life, aimed at every individual, this course of the first chamber is a true call to the conscience of the human being, which influences our decisions and actions.',
+    'proposito_de_curso_2' => 'Through the different classes and a didactic focused on experience, this course highlights the importance of the self-discovery that a person needs to attain with respect to his true essence, so that his steps in life follow a conscious and transcendental path.',
+    'proposito_de_curso_3' => 'It teaches us to undertake an internal work that leads to expand our notion about who we are, our wonderful composition, both material and spiritual, of the relationship we have with each living being, with the planet and the universe itself.',
+    'proposito_de_curso_4' => 'Also, it provides us with the fundamental knowledge that we need when we decide to overcome the obstacles that currently prevent our psycho-physical harmony and the free flow of the capacities that we have latent within ourselves.',
+    'proposito_de_curso_5' => 'Questions such as Who am I? Where was I before I was born? What lies beyond death? are natural concerns for anyone who has reached a certain degree of inner "maturity".',
+    'proposito_de_curso_6' => 'The answers to these concerns are found around the philosophical axis on which Gnosis revolves, "Man, know yourself".',
+    'proposito_de_curso_7' => 'Through the path of self-knowledge we can have a deeper and richer life of direct experience; and through this Course we obtain the tools to travel our own Path.',
+    'proposito_de_curso_8' => 'We look forward to seeing you.'
+];
